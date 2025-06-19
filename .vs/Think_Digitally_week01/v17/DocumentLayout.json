@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\dell\\source\\repos\\think_digitally_week01\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,58 +50,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:50:29.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvw8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:50:37.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:54:59.509Z",
+              "WhenOpened": "2025-06-19T10:43:45.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Services\\IProductService.cs",
-              "RelativeToolTip": "Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:47:06.274Z",
+              "WhenOpened": "2025-06-19T10:00:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:50:37.736Z",
               "EditorCaption": ""
             },
             {
@@ -107,16 +106,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:50:29.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T09:48:05.075Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T10:05:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:47:06.274Z"
             },
             {
               "$type": "Document",
@@ -126,10 +163,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T09:53:10.413Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Think_Digitally_week01\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:54:59.509Z"
             }
           ]
         }
